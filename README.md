@@ -1,4 +1,4 @@
-## (Map of Tulsa, Ok Traffic Accidents in 2014)[https://mishaberrien.com/tulsa-traffic-safety/]
+## [Map of Tulsa, Ok Traffic Accidents in 2014](https://mishaberrien.com/tulsa-traffic-safety/)
 
 
 An interactive visualization of all reported traffic accidents in 2014 in the city of Tulsa.
